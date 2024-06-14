@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 const config = defineConfig({
-    base: "/",
+    base: "/drawing-js/",
     build: {
         outDir: "docs",
     }
